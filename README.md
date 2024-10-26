@@ -8,9 +8,11 @@ Actividades.
 
 1. Wiki Gestión de Incidentes. (15)
 2. Contenedores (30)
+
     a. Ejercicios (10)
     b. Zabbix contenerizado (35)
-3. ITIL V 4  (40)
+
+4. ITIL V 4  (40)
 
 
 # Parcial  No 1 tercer  Corte
