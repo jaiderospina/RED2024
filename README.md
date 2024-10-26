@@ -9,7 +9,7 @@ Actividades.
 2. Contenedores (30)
     a. Ejercicios (10)
     b. Zabbix contenerizado (35)
-3. ITIL V 4
+3. ITIL V 4  (40)
 
 
 # Parcial  No 1 tercer  Corte
